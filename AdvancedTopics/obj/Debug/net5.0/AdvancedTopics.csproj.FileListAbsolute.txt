@@ -1,0 +1,15 @@
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/AdvancedTopics.deps.json
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/AdvancedTopics.runtimeconfig.json
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/AdvancedTopics.runtimeconfig.dev.json
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/AdvancedTopics.dll
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/ref/AdvancedTopics.dll
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/bin/Debug/net5.0/AdvancedTopics.pdb
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.csprojAssemblyReference.cache
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.AssemblyInfoInputs.cache
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.AssemblyInfo.cs
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.csproj.CoreCompileInputs.cache
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.dll
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/ref/AdvancedTopics.dll
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.pdb
+/Users/laurenlewis/projects/AdvancedTopics/AdvancedTopics/obj/Debug/net5.0/AdvancedTopics.genruntimeconfig.cache
